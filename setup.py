@@ -1,14 +1,11 @@
-
-**setup.py:**
-```python
 from setuptools import setup, find_packages
 
 setup(
-    name='statistical-tests',
+    name='staty-tests',
     version='0.1.0',
     packages=find_packages(),
     author='Twinomugisha Morris',
-    author_email='morristwino2@gmail.com',
+    author_email='morristwinomugisha2000@gmail.com',
     description='A Python library for performing statistical tests like ANOVA and chi-square.',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
